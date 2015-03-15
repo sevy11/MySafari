@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  InternetViewController.h
 //  MySafari
 //
 //  Created by Michael Sevy on 3/11/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface InternetViewController : UIViewController
 
 @end
-
